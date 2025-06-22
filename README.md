@@ -2,7 +2,7 @@
 
 ## Product Inventory
 
-This project demonstrates a simple CRUD interface for products using Materialize CSS for a Material Design look. It includes create, edit, and listing screens for managing product name, description, price, and quantity. Authentication allows users to register and log in, while an admin role can manage the user list.
+This project demonstrates a simple CRUD interface for products using **Flowbite** and Tailwind CSS for styling. It includes create, edit, and listing screens for managing product name, description, price, quantity **and an uploaded image**. Authentication allows users to register and log in, while an admin role can manage the user list.
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
